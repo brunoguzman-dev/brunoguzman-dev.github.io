@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dakai4rever.github.io//sitemap.xml
+Sitemap: https://brunoguzman.dev/sitemap.xml
